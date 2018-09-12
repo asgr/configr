@@ -6,7 +6,7 @@ Authors@R: person("Jianfeng", "Li", email = "lee_jianfeng@sjtu.edu.cn", role = c
 Description:
     Implements the JSON, INI, YAML and TOML parser for R setting and writing of configuration file. The functionality of this package is similar to that of package 'config'. 
 Depends:
-    R (>= 3.3.0)
+    R (>= 3.2.0)
 URL: https://github.com/Miachol/configr
 BugReports: https://github.com/Miachol/configr/issues
 License: MIT + file LICENSE
